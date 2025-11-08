@@ -1,7 +1,5 @@
-# Práctica de examen Git/GitHub
+## Cambio en rama examen_practica
 
-## Comandos usados
-- git status
-- git add
-- git commit
-- git push
+- Este cambio es solo en la rama de práctica.
+- Vamos a simular un commit de examen.
+
